@@ -1,0 +1,14 @@
+h1{
+    font-size: 40px; text-align: center; margin: 30px 0 50px 0;
+}
+*{
+    font-style: Inter;
+}
+.right-content{
+    text-align: right;
+}
+h3{font-size: 32px;}
+.center-content{
+    text-align: center;
+}
+.left-content{text-align: left;}
