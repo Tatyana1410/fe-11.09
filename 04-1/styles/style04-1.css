@@ -1,0 +1,11 @@
+body{background-color: rgb(8, 8, 44);}
+.container{display: flex;}
+.block1{float: left;display: block; width: 300px;
+padding: 80px 50px 0 50px; flex:1 ;}
+.block2{float: right;display: block;flex: 1; padding: 130px 00px 0 50px; width: 363px;}
+h1{color: aliceblue; font-style: inherit;}
+label{color: aliceblue;}
+p{color: aliceblue; margin: 0 0 0 0;}
+input{margin: 0 0 10px 0;}
+a{text-decoration: none; color: rgb(28, 104, 197);}
+.button{background-color: rgb(49, 126, 234);padding: 10px 40px;color: aliceblue;border: none;}
