@@ -4,7 +4,8 @@ body{margin: 0;
   font-style: normal;
 }
 main{padding: 56px 20px;
-border-radius: 15px;}
+border-radius: 15px;
+}
 /* width: 356px;
 border: 2px solid black} */
 
@@ -66,10 +67,11 @@ input::placeholder{font-size: 12px;
     font-size: 16px;
     font-weight: 500;
     line-height: 19px;}
+
 button{background-color: white;
     border: none;}
 
 input{border-radius: 12px;
     background: rgb(239, 239, 239);width: 316px;
     height: 44px;
-padding-left: 15px;}
+padding-left: 15px; border: none;}
