@@ -58,7 +58,7 @@ line-height: 0.9;}
 .black span{color: rgb(87, 87, 87);
     font-size: 21px;
     font-weight: 500;
-    line-height: 120%;}
+    line-height: 120%; margin-left: 14px;}
 .blue-content{background: rgb(0, 98, 255);}
 .blue-content h2{color: aliceblue; padding-top: 71px; margin: 0 auto;}
 .blue-content p{color: aliceblue;margin: 0 auto;}
@@ -112,6 +112,7 @@ padding-bottom: 42px;text-align: center; margin: 0 auto;}
 .yellow-text h3{font-size: 27px;
     font-weight: 600;
     line-height: 120%;}
+/* display: inline-block;} */
 .yellow-text h5{font-size: 21px;
     font-weight: 500;
     line-height: 120%;
@@ -152,6 +153,10 @@ text-align: center; margin: 12px 0 74px 0;
 .end-button{background: rgb(0, 98, 255);padding: 10px 16px 10px 16px;width: 508px;
     height: 39px; color: rgb(255, 255, 255);
     font-size: 16px;text-align: center;}
+.text{font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;}
+
 
 
 
