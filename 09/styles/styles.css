@@ -1,0 +1,35 @@
+body{ font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;}
+
+.nav-item{font-size: 18px;
+    --bs-nav-pills-link-active-bg: #75bf7a;}
+
+li:nth-child(4) {font-size: 22px;}
+.nav-pills .nav-link {border-radius: 5.95px;}
+main {background-color:#f7f7f7;}
+
+h1{font-size: 60px;}
+
+.btn-primary{--bs-btn-bg:#000; border-radius: 5px;}
+.back h2{color: white; font-size: 25px; }
+input::placeholder{ color: #dadada;}
+.container.back{background-color: #75bf7a; padding: 2rem 4rem; border-radius: 10px;}
+input{border: none; padding: 1rem; border-radius: 5px; width: 100%;}
+
+.btn-dark{font-size: 1rem; border-radius: 5px; }
+h3{font-size: 2rem;font-weight: 800;}
+h3 span{color: #75bf7a;}
+.featurette-heading{color: #000;}
+.featurette{background-color: #ffffff; border-radius: 10px;}
+.top-content{padding-left: 2rem;}
+.featurette-img{margin-right: 5rem;}
+p{color:#9e9da2; line-height: 1.2;}
+.featurette-heading h2{font-size: 32px;}
+.flex-column{color: #8b8ba5; font-size: 18px;
+    font-weight: 400;}
+section{background-color:#ffffff;}
+.end-footer{color: #75bf7a;}
+
+/* @media (max-width: 767.98px) { 
+    .back{display: block;}} */
